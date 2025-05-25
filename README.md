@@ -42,3 +42,5 @@ major concern of any non-tech-savvy people to deal with.
 In future we would like to add many functionaries to
 make accepted by a major portion. An extensive R&D can
 make this tool better and better for further use. 
+
+<!-- GitAds-Verify: OHW6AVPYI7IHSKGDI3ZM9HBFXHAXU9VM -->
