@@ -1,25 +1,101 @@
-# Shell Net Builder
-This project is aimed at developing a simple GUI based tool to configure HTTP, FTP, DNS, NAT, NFS, DHCP without having any extensive knowledge on console command. This tool is most suitable for home, SOHO as well as where RHEL based network setup required. With all operations a user friendly manual is provided for optimum guidance.
+# 🛠️ ShellNetBuilder
 
-# Product Definition
-A simple GUI-based NETWORK BUILDER for a RHEL-based Linux operating system to configure DNS, FTP, HTTP, NFS, NAT without having extensive knowledge about console command. The one click procedure is here to setup all the above mentioned operations where as in real it is required tons of console base command to do so.
+A user-friendly GUI-based tool designed to configure essential network services such as HTTP, FTP, DNS, NAT, NFS, and DHCP without requiring extensive knowledge of console commands. Ideal for home, SOHO (Small Office/Home Office) environments, or any setup requiring RHEL-based network configurations.
 
-# Functional Requirements Definitions:
-Functional Requirements are those that refer to the functionality of the system, i.e., what services it will provide to the user. Nonfunctional (supplementary) requirements pertain to other information needed to produce the correct system and are detailed separately.
+---
 
-# Non-functional Requirements Definitions:
-Some requirements are not functional. Specifically, these are the constraints the system must work within. The system must be compatible with IBM Websphere Application Server and must have sufficient memory to work with.
+## 🚀 Features
 
-# Functions provided:
-This project is aimed at developing a simple GUI based tool to configure HTTP, FTP, DNS, NAT, NFS, DHCP without having any extensive knowledge on console command. This tool is most suitable for home , SOHO as well as where RHEL based network setup required. With all operations a user friendly manual is provided for optimum guidance.
+- **HTTP Configuration**: Easily set up and manage HTTP services.
+- **FTP Setup**: Configure FTP servers with minimal effort.
+- **DNS Management**: Simplify DNS server configurations.
+- **NAT Configuration**: Set up Network Address Translation effortlessly.
+- **NFS Setup**: Configure Network File System services.
+- **DHCP Management**: Manage Dynamic Host Configuration Protocol settings.
 
-NETWORK BUILDER is developed aiming the large number of people who don’t use Linux just because of the complexity of configuring server and its related service such as DHCP, HTTP, FTP, NFS, NAT, DNS etc in spite of tremendous security that comes with RHEL based OS such as Cent OS.
+Each operation is accompanied by a user-friendly manual to guide you through the process.
 
-We have chosen this because of making people friendly with Linux so that they can enjoy its built-in security without bothering about lines of commands, which is a major concern for any non-tech-savvy people to deal with.
+---
 
-In future we would like to add many functionaries to make accepted by a major portion. An extensive R&D can make this tool better and better for further use. 
+## 🛠️ Technologies Used
 
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/shellnetbuilder@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/shellnetbuilder@github)
+- **Programming Language**: Java
+- **Platform**: RHEL-based systems
 
+---
+
+## 📂 Project Structure
+
+```
+├── clienttools/               # Client tool Java source code
+├── configurationcodes/        # Configuration scripts
+├── lockfls/                   # Lock files
+├── Client_Network_Builder_v0.1_installer.zip  # Installer package
+├── Network_Builder_v0.1_installer.zip         # Alternative installer package
+└── README.md                  # Project documentation
+```
+
+---
+
+## ⚙️ Installation Instructions
+
+1. **Download the Repository**:
+
+   ```bash
+   git clone https://github.com/arnabnandy7/shellnetbuilder.git
+   cd shellnetbuilder
+   ```
+
+2. **Extract the Installer**:
+
+   - Extract the contents of `Client_Network_Builder_v0.1_installer.zip` or `Network_Builder_v0.1_installer.zip` to a desired location.
+
+3. **Run the Installer**:
+
+   - Execute the installer to set up the application on your system.
+
+4. **Launch the Application**:
+
+   - After installation, launch the application from your applications menu or the installation directory.
+
+---
+
+## 📄 Documentation
+
+Detailed documentation is available within the project, covering:
+
+- System architecture
+- User manuals
+- Administrative guidelines
+
+---
+
+## 📈 Benefits
+
+- **Efficiency**: Simplifies complex network configurations.
+- **User-Friendly**: Intuitive interface suitable for users with minimal technical knowledge.
+- **Comprehensive**: Covers essential network services in a single tool.
+
+---
+
+## 🔧 Future Enhancements
+
+- Support for additional network services.
+- Enhanced security features.
+- Cross-platform compatibility.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. Ensure that your code adheres to the project's coding standards and includes appropriate documentation.
+
+---
+
+## 📞 Contact
+
+For support or inquiries, please contact:
+
+- **Email**: [arnab_nandy7@yahoo.com](mailto:arnabnandy7)
+- **GitHub**: [arnabnandy7](https://github.com/arnabnandy7)
 
