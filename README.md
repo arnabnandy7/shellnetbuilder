@@ -96,6 +96,6 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 
 For support or inquiries, please contact:
 
-- **Email**: [arnab_nandy7@yahoo.com](mailto:arnabnandy7)
+- **Email**: [arnab_nandy7](mailto:arnab_nandy7@yahoo.com)
 - **GitHub**: [arnabnandy7](https://github.com/arnabnandy7)
 
